@@ -1,0 +1,5 @@
+{{#user}}
+Name: Nishchita Jagadish
+Skills: C++, HTML, CSS, Data Mining
+Email: nishchitaj@gmail.com
+{{/user}}
